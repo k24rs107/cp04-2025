@@ -5,7 +5,7 @@
     }
 
     button{
-        color: blue;
+        color: white;
         font-family: Times;
         border-radius: 20px;
     }
@@ -67,11 +67,13 @@
     }
     
     #btnB {
+        background-color: red;
         font-size: 20px;
         position:absolute; top:380px; left:45%; width:25%; height:60px; 
     }
 
     #btnC {
+        background-color: blue;
         font-size: 10px;
         position:absolute; top:380px; left:70%; width:28%; height:60px; 
     }
